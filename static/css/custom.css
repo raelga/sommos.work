@@ -1,0 +1,18 @@
+
+/* Banner section */
+
+.hero-area .block img {
+  height: 2.5em;
+  margin-bottom: 20px;
+}
+
+@media (max-width: 480px) {
+  .hero-area .block p {
+    font-size: 60px;
+  }
+}
+
+.hero-area .block p {
+  width: 100%;
+  font-size: 1.5em;
+}
