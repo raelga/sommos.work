@@ -1,7 +1,7 @@
 logo = "images/logo.png"
 footerLogo  = "images/logo-m.png"
 # Meta data
-description = "Sommos Site - Powered by hugo + Themefisher/meghna + Netlify"
+description = "Your local event freelancers"
 author = "Sommos"
 # Google Analitycs
 google_analitycs_id = "G-81H578T2QX"
