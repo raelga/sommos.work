@@ -16,3 +16,16 @@
   width: 100%;
   font-size: 1.5em;
 }
+
+/* Contact section */
+
+.form-meghna input:hover,
+.form-meghna textarea:hover,
+#contact-submit:hover {
+  border-color: #F5A2A9;
+}
+
+#contact-submit {
+  background: #21429bff;
+}
+

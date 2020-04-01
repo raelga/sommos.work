@@ -11,4 +11,4 @@ banner:
   button:
     enable : true
     label : "let's get started"
-    link : "#about"
+    link : "#contact"

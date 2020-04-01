@@ -1,0 +1,13 @@
+############################## Contact #############################
+contact:
+  enable : true
+  title : Contact Us
+  subtitle : Contact Details
+  content : How can we help? What's on your mind? What do you need?
+
+  contact_details :
+    - icon : ti-location-pin
+      info : "Barcelona, Spain"
+
+    - icon : ti-email
+      info : "Email: hello@sommos.work"
