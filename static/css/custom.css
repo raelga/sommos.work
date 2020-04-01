@@ -1,3 +1,25 @@
+/* Basic Setup */
+
+.border-meghna:before {
+  background-color: #F5A2A9;
+}
+
+.title h2 span {
+  color: #F5A2A9;
+}
+
+.color {
+  color: #F5A2A9;
+}
+
+.btn-transparent:hover,
+.btn-transparent:focus {
+  background-color: #21429bff;
+}
+
+.bg-one {
+  background-color: #353b43;
+}
 
 /* Banner section */
 
@@ -15,6 +37,23 @@
 .hero-area .block p {
   width: 100%;
   font-size: 1.5em;
+}
+
+/* Navigation section */
+
+.navigation {
+  background-color: #21429bff;
+}
+
+.navbar-brand img {
+  height: 32px;
+}
+
+.navbar-dark .navbar-nav .active>.nav-link,
+.navbar-dark .navbar-nav .nav-link.active,
+.navbar-dark .navbar-nav .nav-link.show,
+.navbar-dark .navbar-nav .show>.nav-link {
+  color: #F5A2A9;
 }
 
 /* Contact section */
