@@ -19,6 +19,9 @@
   {{ $css_plugins_bundle := $css_plugins_bundle | resources.Concat "css/plugins.css" | minify | fingerprint "md5" }}
   <link rel="stylesheet" href="{{ $css_plugins_bundle.RelPermalink }}">
 
+  {{- $css_icons := resources.Get "plugins/themify-icons/themify-icons.css" | minify -}}
+  <link rel="stylesheet" href="{{ $css_icons.RelPermalink }}">
+
   {{ "<!-- Main CSS -->" | safeHTML }}
   {{- $css_style := resources.Get "css/style.css" | minify  -}}
   {{- $css_custom := resources.Get "css/custom.css" | minify -}}

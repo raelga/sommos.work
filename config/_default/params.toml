@@ -11,10 +11,9 @@ post_share = true
 [plugins]
 css = [
   "plugins/bootstrap/bootstrap.min.css",
-  "plugins/themify-icons/themify-icons.css",
   "plugins/magnific-popup/magnific-popup.css",
   "plugins/slick/slick.css",
-  "fonts/pt-mono.css"
+  "fonts/pt-mono.css",
 ]
 
 js = [
