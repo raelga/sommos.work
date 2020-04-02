@@ -8,6 +8,18 @@ google_analitycs_id = "G-81H578T2QX"
 # post share
 post_share = true
 
+[plugins]
+
+js = [
+  "plugins/jquery/jquery.min.js",
+  "plugins/bootstrap/bootstrap.min.js",
+  "plugins/slick/slick.min.js",
+  "plugins/shuffle/shuffle.min.js",
+  "plugins/magnific-popup/jquery.magnific-popup.min.js",
+  "plugins/lazy-load/lozad.min.js",
+  "plugins/google-map/map.js"
+]
+
 # preloader
 [preloader]
 enable = true
