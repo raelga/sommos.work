@@ -1,0 +1,32 @@
+<head>
+  <meta charset="utf-8">
+  <title>{{ .Title }}</title>
+
+  {{ "<!-- mobile responsive meta -->" | safeHTML }}
+  <meta name="viewport" content="width=device-width, initial-scale=1, maximum-scale=1">
+  <meta name="description"
+    content="{{ with .Description }}{{ . }}{{ else }}{{ with .Site.Params.description }}{{ . }}{{ end }}{{ end }}">
+  {{ with .Site.Params.author }}
+  <meta name="author" content="{{ . }}">{{ end }}
+  {{ hugo.Generator }}
+
+  {{ "<!-- Plugins CSS -->" | safeHTML }}
+  {{- $css_plugins_bundle := slice -}}
+  {{- range .Site.Params.plugins.css -}}
+  {{- $css_plugins_bundle = $css_plugins_bundle | append ( resources.Get . ) -}}
+  {{- end -}}
+
+  {{ $css_plugins_bundle := $css_plugins_bundle | resources.Concat "css/plugins.css" | minify | fingerprint "md5" }}
+  <link rel="stylesheet" href="{{ $css_plugins_bundle.RelPermalink }}">
+
+  {{ "<!-- Main CSS -->" | safeHTML }}
+  {{- $css_style := resources.Get "css/style.css" | minify  -}}
+  {{- $css_custom := resources.Get "css/custom.css" | minify -}}
+  {{ $css_screen := slice $css_style $css_custom | resources.Concat "css/bundle.css" | fingerprint "md5" }}
+  <link rel="stylesheet" href="{{ $css_screen.RelPermalink }}" media="screen">
+
+  {{ "<!--Favicon-->" | safeHTML }}
+  <link rel="shortcut icon" href="{{ `images/favicon.png` | absURL }} " type="image/x-icon">
+  <link rel="icon" href="{{ `images/favicon.png` | absURL }} " type="image/x-icon">
+
+</head>

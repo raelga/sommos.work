@@ -1,5 +1,22 @@
 /* Basic Setup */
 
+body {
+  font-family: 'PT Mono', monospace;
+}
+
+h1,
+h2,
+h3,
+h4,
+h5,
+h6 {
+  font-family: 'PT Mono', monospace;
+}
+
+p {
+  font-family: 'PT Mono', monospace;
+}
+
 .border-meghna:before {
   background-color: #F5A2A9;
 }
