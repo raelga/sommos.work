@@ -90,3 +90,8 @@ p {
 .social-icon ul li a:hover {
   background: #21429bff;
 }
+
+.powered p {
+  margin-top: 5px;
+  font-size: 0.75em;
+}

@@ -15,4 +15,6 @@
 - id: all
   translation: All
 - id: copyright
-  translation: 2020 [sommos](https://sommos.work) - Powered by [Hugo](https://gohugo.io/) + [Meghna](https://github.com/themefisher/meghna-hugo) + [Netlify](https://www.netlify.com/)
+  translation: "[sommos](https://sommos.work) 2020"
+- id: powered
+  translation: Code in [GitHub](https://github.com/raelga/sommos.work) - Powered by [Hugo](https://gohugo.io/) + [Meghna](https://github.com/themefisher/meghna-hugo) + [Netlify](https://www.netlify.com/)
