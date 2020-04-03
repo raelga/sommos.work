@@ -1,0 +1,27 @@
+about:
+  enable : true
+  title : About Us
+  about_item :
+
+  - icon : ti-link
+    title : We're Family
+    content : >
+      SOMMOS is a big family of fighter freelancers gathering and offering the most
+      powerful profiles in the market known for their good vibes and positive energy.
+      Old school events are water under the bridge, we are a new wave of well-travelled
+      freelancers with cutting edge concepts making the best of ourselves.
+
+  - icon : ti-medall-alt
+    title : We're Professional
+    content : >
+      SOMMOS provides you with hard workers profiles, a committed team, creative,
+      passionate, decisive, funny, expert, widely experienced, diversity lovers
+      on a mission to trigger change in the events industry.
+
+  - icon : ti-rocket
+    title : We're Future
+    content : >
+      SOMMOS is a digital networking community within the event industry, bringing
+      freelancers and businesses together. It is time to put the brakes on endless
+      freelance research with no guarantees and say hello to successful synergies
+      in the marketplace to ease your precious time.
