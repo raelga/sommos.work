@@ -13,6 +13,11 @@ h6 {
   font-family: 'PT Mono', monospace;
 }
 
+.h3,
+h3 {
+  font-size: 1.5rem;
+}
+
 p {
   font-family: 'PT Mono', monospace;
 }
