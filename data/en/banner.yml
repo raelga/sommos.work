@@ -2,8 +2,8 @@
 banner:
   enable : true
   # Photo by Cori Rodriguez from Pexels
-  bg_image_webp : "images/backgrounds/people-taking-a-photo-1187086.webp"
-  bg_image : "images/backgrounds/people-taking-a-photo-1187086.jpg"
+  bg_image_webp : "images/backgrounds/fauxels-photo-of-people-leaning-on-wooden-table-3184325.webp"
+  bg_image : "images/backgrounds/fauxels-photo-of-people-leaning-on-wooden-table-3184325.jpg"
   icon : ""
   title : "sommos"
   logo: "images/logo.png"
