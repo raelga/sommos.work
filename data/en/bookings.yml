@@ -1,0 +1,43 @@
+##################################### bookings ##############################
+bookings:
+  enable: true
+  title: Book Us
+  bookings_table:
+
+    - name: Home office
+      price: 300€
+      unit: 8 hours
+      services:
+        - 35€ additional hour
+      button:
+        label: "Contact"
+        link: "#contact"
+
+    - name: Onsite Coordinator
+      price: 450€
+      unit: 12 hours
+      services:
+        - 40€ event additional hour
+        - 200€ dinner coordination
+        - 200€ airport transfer
+        - 60€ full day diet
+        - 0,65€/km mileage
+        - Taxi between 00.00h and 8.00h
+      button:
+        label: "Contact"
+        link: "#contact"
+
+    - name: Half day Onsite Coordinator
+      price: 300€
+      unit: 6 hours
+      services:
+        - 40€ event additional hour
+        - 200€ dinner coordination
+        - 200€ airport transfer
+        - 30€ half day diet
+        - 0,65€/km mileage
+        - Taxi between 00.00h and 8.00h
+      button:
+        label: "Contact"
+        link: "#contact"
+
