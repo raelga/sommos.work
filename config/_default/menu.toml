@@ -4,11 +4,16 @@ URL = "about"
 weight = 1
 
 [[main]]
+name = "Family"
+URL = "team"
+weight = 2
+
+[[main]]
 name = "Bookings"
 URL = "pricing"
-weight = 2
+weight = 3
 
 [[main]]
 name = "Contact"
 URL = "contact"
-weight = 3
+weight = 4

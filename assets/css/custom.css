@@ -78,6 +78,45 @@ p {
   color: #F5A2A9;
 }
 
+/* Team section */
+
+.member-photo .mask {
+  background-color: rgba(33, 66, 156, 0.7);
+}
+
+.member-photo:hover img {
+  -webkit-transform: scale(1.15);
+  transform: scale(1.15);
+}
+
+.team-skill-bar {
+  padding-left: 0px;
+  padding-bottom: 15px;
+}
+
+.team-skill-bar h6 {
+  text-align: right;
+}
+
+.team-skill-bar li {
+  list-style-type: none;
+}
+
+.team-skill-bar p {
+  padding-left: 5px;
+  font-size: .75em;
+  margin-bottom: 0;
+}
+
+.team-skill-bar .progress {
+  height: 6px;
+  border-radius: 0;
+}
+
+.team-skill-bar .progress .progress-bar {
+  background: #F5A2A9;
+}
+
 /* Contact section */
 
 .form-meghna input:hover,
@@ -87,7 +126,7 @@ p {
 }
 
 #contact-submit {
-  background: #21429bff;
+  background: #21429c;
 }
 
 /* Footer section */
