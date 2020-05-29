@@ -119,6 +119,15 @@ p {
 
 /* Contact section */
 
+.contact-info p {
+  font-size: 2em;
+  margin-bottom: 10px;
+}
+
+.contact-details {
+  padding-top: 25px;
+}
+
 .form-meghna input:hover,
 .form-meghna textarea:hover,
 #contact-submit:hover {
