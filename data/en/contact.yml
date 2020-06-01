@@ -3,7 +3,9 @@ contact:
   enable : true
   title : Contact Us
   subtitle : Contact Details
-  content : How can we help? What's on your mind? What do you need?
+  content :
+    - text: What's on your mind?
+    - text: How can we help?
 
   contact_details :
     - icon : ti-location-pin

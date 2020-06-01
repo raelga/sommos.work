@@ -61,6 +61,27 @@ p {
   font-size: 1.5em;
 }
 
+/* About section */
+
+.about div .block {
+  background-color: #585D65;
+}
+
+.about h3 {
+  color: #F5A2A9;
+  font-weight: bold;
+  padding-top: 16px;
+  padding-bottom: 16px;
+}
+
+.about p {
+  color: #ffe8e8;
+}
+
+.about .block:hover {
+  border-bottom: 8px solid #21429b;
+}
+
 /* Navigation section */
 
 .navigation {
@@ -115,6 +136,39 @@ p {
 
 .team-skill-bar .progress .progress-bar {
   background: #F5A2A9;
+}
+
+/* Bookings se */
+
+.price-title h3 {
+  color: #f5a2a9;
+}
+
+.price-title .value {
+  color: #f5a2a9;
+}
+
+.block-link {
+  background-color: transparent;
+  color: #fff;
+  border-radius: 0;
+  transition: all .3s ease-in 0s;
+}
+
+.block-link:focus {
+  color: #ddd;
+}
+
+.block-link-transparent:hover,
+.block-link-transparent:focus {
+  background-color: #21429bff;
+  color: #fff;
+  border: 1px solid #21429bff;
+}
+
+
+.price-item {
+  padding-bottom: 0;
 }
 
 /* Contact section */
