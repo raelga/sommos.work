@@ -4,23 +4,23 @@ team:
   title : Our Team
 
   quiz:
-    - name: q1
+    - name: Q1
       options:
         - Clicker
         - Laptop
-    - name: q2
+    - name: Q2
       options:
         - Excel
         - Brainstorming
-    - name: q3
+    - name: Q3
       options:
         - Stage
         - Backstage
-    - name: q4
+    - name: Q4
       options:
         - Speaker
         - Artist
-    - name: q5
+    - name: Q5
       options:
         - Early morning
         - Late Night
