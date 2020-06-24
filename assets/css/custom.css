@@ -120,9 +120,22 @@ p {
   transform: scale(1.15);
 }
 
+.team-skills-container {
+  line-height: 2;
+  font-size: 2em;
+  text-align: center;
+  padding-left: 0px;
+}
 
 .team-skills ul {
+  padding-left: 0px;
+}
+
+.team-skills li {
+  padding: 2px 10px;
+  vertical-align: middle;
   list-style-type: none;
+  display: inline;
 }
 
 .team-quiz h6 {

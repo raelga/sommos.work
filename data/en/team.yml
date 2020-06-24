@@ -32,17 +32,14 @@ team:
       image_webp : profiles/areti.grammatas/image.webp
       image : profiles/areti.grammatas/image.jpg
       designation : Freelance Event Manager
-      content : |
+      description : |
         Areti is an open minded freelance, with broad adaptability to new last minute situations.
-        Very emphatic with clients and a great onsite multitasker.
-        She is the right one to manage the logistics in big scale events.
-      social :
-        - icon : ti-user
-          link : "profiles/areti.grammatas/cv.pdf"
-        - icon : ti-facebook
-          link : "https://www.facebook.com/areti.grammatas"
-        - icon : ti-linkedin
-          link : "https://www.linkedin.com/in/areti-grammatas-5240562a/"
+        Very emphatic with clients and a great onsite multi-tasker.
+      skills:
+        - ♌
+        - 💃
+        - 🧳
+        - 🥬
       quiz:
         - Clicker
         - Brainstorming
@@ -71,15 +68,13 @@ team:
       image_webp : profiles/aroha.dona/image.webp
       image : profiles/aroha.dona/image.jpg
       designation : CEO Co-Founder
-      content : |
+      description : |
         Aroha is an ...
-      social :
-        - icon : ti-user
-          link : "profiles/aroha.dona/cv.pdf"
-        - icon : ti-facebook
-          link : "https://www.facebook.com/aroha.d.garcia"
-        - icon : ti-linkedin
-          link : "https://www.linkedin.com/in/aroha-do%C3%B1a-garcia-18571613/"
+      skills:
+        - ♋
+        - 🏃‍♀
+        - 📚
+        - 🍱
       quiz:
         - Laptop
         - Brainstorming
@@ -102,9 +97,14 @@ team:
       image_webp : profiles/camille.degenne/image.webp
       image : profiles/camille.degenne/image.jpg
       designation : Freelance Event Manager
-      content : |
-        She is a great team player, pro active in solution finding, multi-tasker & client oriented person.
+      description : |
+        Camille is a great team player, pro active in solution finding, multi-tasker & client oriented person.
         If you look for someone to coordinate logistics of big scale events, she is the one.
+      skills:
+        - ♒
+        - 🧘
+        - 🎾
+        - 🥟
       quiz:
         - Clicker
         - Excel
@@ -125,8 +125,13 @@ team:
       image_webp : profiles/carla.dona/image.webp
       image : profiles/carla.dona/image.jpg
       designation : CEO Co-Founder
-      content : |
+      description : |
         Carla is an ...
+      skills:
+        - ♈
+        - 🧘‍♀️
+        - 📚
+        - 🥗
       quiz:
         - Clicker
         - Excel
@@ -145,6 +150,22 @@ team:
         - name : Italian
           percent : 60%
 
+    - name : Coline Basys
+      image_webp : profiles/coline.bassy/image.webp
+      image : profiles/coline.bassy/image.jpg
+      designation : CEO Co-Founder
+      description : |
+        Coline is an ...
+      skills:
+        - ♍
+        - 🎭
+        - ⛵
+        - 🍝
+      quiz:
+        - Clicker
+        - Excel
+        - Backstage
+        - Speaker
         - I'm a 4x4
       languages:
         - name: French
@@ -158,9 +179,20 @@ team:
       image_webp : profiles/ines.arnal/image.webp
       image : profiles/ines.arnal/image.jpg
       designation : Freelance Event Manager
-      content : |
+      description : |
         Empathetic, responsible, decisive and detail-oriented person with team work skills,
         excellent customer handling and always willing to exceed objectives.
+      skills:
+        - ♋
+        - 🎥
+        - 🧘
+        - 🥟
+      quiz:
+        - Clicker
+        - Excel
+        - Backstage
+        - Speaker
+        - I'm a 4x4
       languages:
         - name: Spanish
           percent: 100%
@@ -168,6 +200,19 @@ team:
           percent : 90%
         - name: German
           percent: 20%
+
+    - name : Isabelle Bonneau
+      image_webp : profiles/isabelle.bonneau/image.webp
+      image : profiles/isabelle.bonneau/image.jpg
+      designation : Freelance Event Manager
+      description : |
+        Expert in project management - communication and events, digital marketing and
+        DMC operations - I feel motivated by challenges and the energy to surpass them.
+      skills:
+        - ♒
+        - 🎾
+        - 🧶
+        - 🧀
       quiz:
         - Clicker
         - Excel
@@ -190,10 +235,15 @@ team:
       image_webp : profiles/isabel.lavandeira/image.webp
       image : profiles/isabel.lavandeira/image.jpg
       designation : Freelance Event Manager
-      content : |
+      description : |
         Positive, determined, decisive and passionate about her work.
         A great team player who stands for a big smile to face problems.
         She loves production and taking projects from A to Z.
+      skills:
+        - ♓
+        - 🧳
+        - 👪
+        - 🥘
       quiz:
         - Clicker
         - Excel
@@ -212,13 +262,18 @@ team:
         - name : Italian
           percent : 60%
 
-    - name : Isabelle Bonneau
-      image_webp : profiles/isabelle.bonneau/image.webp
-      image : profiles/isabelle.bonneau/image.jpg
+    - name : Jorge Bermúdez
+      image_webp : profiles/jorge.bermudez/image.webp
+      image : profiles/jorge.bermudez/image.jpg
       designation : Freelance Event Manager
-      content : |
-        Expert in project management - communication and events, digital marketing and
-        DMC operations - I feel motivated by challenges and the energy to surpass them.
+      description : |
+        He is our English Gentleman, the client oriented freelance par
+        excellence with a technical approach as an added value to his profile.
+      skills:
+        - ♏
+        - 🏊‍♀️
+        - 🚣‍♀️
+        - 🌯
       quiz:
         - Clicker
         - Excel
@@ -233,13 +288,19 @@ team:
         - name : Portuguese
           percent : 60%
 
-    - name : Jorge Bermúdez
-      image_webp : profiles/jorge.bermudez/image.webp
-      image : profiles/jorge.bermudez/image.jpg
+    - name : Philippa Jaago
+      image_webp : profiles/philippa.jago/image.webp
+      image : profiles/philippa.jago/image.jpg
       designation : Freelance Event Manager
-      content : |
-        He is our English Gentleman, the client oriented freelance par
-        excellence with a technical approach as an added value to his profile.
+      description : |
+        She is very sharp in execution and planning events.
+        An extremely client oriented freelance with high self confidence.
+        Great effectivity in problem solving.
+      skills:
+        - ♐
+        - 🏊‍♀️
+        - 🚣‍♀️
+        - 🍝
       quiz:
         - Clicker
         - Excel
@@ -262,10 +323,14 @@ team:
       image_webp : profiles/vyara.pelova/image.webp
       image : profiles/vyara.pelova/image.jpg
       designation : Freelance Event Manager
-      content : |
+      description : |
         She is very sharp in execution and planning events.
         An extremely client oriented freelance with high self confidence.
         Great effectivity in problem solving.
+      skills:
+        - ♊
+        - 🏃‍♀️
+        - 🌶
       quiz:
         - Clicker
         - Excel

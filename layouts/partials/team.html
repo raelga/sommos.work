@@ -16,7 +16,7 @@
       </div>
       {{"<!-- /section title -->" | safeHTML}}
 
-      {{ range .team_member}}
+      {{ range $index, $member := .team_member}}
       {{"<!-- team member -->" | safeHTML}}
       <div class="col-lg-3 col-md-6 col-12 wow fadeInDown" data-wow-duration="500ms">
         <div class="team-member">
@@ -27,20 +27,19 @@
 
             {{"<!-- member social profile -->" | safeHTML}}
             <div class="mask">
-              <ul class="list-inline">
-                {{ range .social }}
-                <li class="list-inline-item"><a href="{{ .link | safeURL }}"><i class="{{ .icon }}"></i></a></li>
-                {{ end }}
-              </ul>
+              <p>{{ .description | markdownify }}</p>
             </div>
           </div>
 
-          {{"<!-- member name & designation -->" | safeHTML}}
-          <div class="member-meta">
-            <h4>{{ .name }}</h4>
-            <span>{{ .designation | markdownify}}</span>
-            <p>{{ .content | markdownify }}</p>
+          {{- if .skills -}}
+          <div class="team-skills-container team-skills">
+            <ul>
+              {{- range $index, $element:= .skills }}
+              <li>{{ . }}</li>
+              {{- end }}
+            </ul>
           </div>
+          {{- end -}}
 
           {{- if .quiz -}}
           <div class="team-quiz-container">
