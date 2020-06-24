@@ -2,6 +2,30 @@
 team:
   enable : true
   title : Our Team
+
+  quiz:
+    - name: q1
+      options:
+        - Clicker
+        - Laptop
+    - name: q2
+      options:
+        - Excel
+        - Brainstorming
+    - name: q3
+      options:
+        - Stage
+        - Backstage
+    - name: q4
+      options:
+        - Speaker
+        - Artist
+    - name: q5
+      options:
+        - Early morning
+        - Late Night
+        - I'm a 4x4
+
   team_member :
 
     - name : Areti Grammatas
@@ -19,17 +43,12 @@ team:
           link : "https://www.facebook.com/areti.grammatas"
         - icon : ti-linkedin
           link : "https://www.linkedin.com/in/areti-grammatas-5240562a/"
-      skills :
-        - name : Presentation & Public Speaking
-          percent : 60%
-        - name : Multi tasking
-          percent : 60%
-        - name : Teamwork
-          percent : 60%
-        - name : Creativity
-          percent : 30%
-        - name : Problem solving
-          percent : 60%
+      quiz:
+        - Clicker
+        - Brainstorming
+        - Backstage
+        - Artist
+        - I'm a 4x4
       languages :
         - name: Bulgarian
           percent: 100%
@@ -53,17 +72,12 @@ team:
           link : "https://www.facebook.com/aroha.d.garcia"
         - icon : ti-linkedin
           link : "https://www.linkedin.com/in/aroha-do%C3%B1a-garcia-18571613/"
-      skills :
-        - name : Presentation & Public Speaking
-          percent : 60%
-        - name : Multi tasking
-          percent : 60%
-        - name : Teamwork
-          percent : 60%
-        - name : Creativity
-          percent : 30%
-        - name : Problem solving
-          percent : 60%
+      quiz:
+        - Laptop
+        - Brainstorming
+        - Stage
+        - Artist
+        - I'm a 4x4
       languages :
         - name: Bulgarian
           percent: 100%
@@ -81,22 +95,12 @@ team:
       content : |
         She is a great team player, pro active in solution finding, multi-tasker & client oriented person.
         If you look for someone to coordinate logistics of big scale events, she is the one.
-      social :
-        - icon : ti-user
-          link : "profiles/camille.degenne/cv.pdf"
-        - icon : ti-linkedin
-          link : "https://www.linkedin.com/in/camille-degenne-a8aaa935/"
-      skills :
-        - name : Presentation & Public Speaking
-          percent : 60%
-        - name : Multi tasking
-          percent : 60%
-        - name : Teamwork
-          percent : 60%
-        - name : Creativity
-          percent : 30%
-        - name : Problem solving
-          percent : 60%
+      quiz:
+        - Clicker
+        - Excel
+        - Stage
+        - Artist
+        - I'm a 4x4
       languages :
         - name: Bulgarian
           percent: 100%
@@ -113,22 +117,12 @@ team:
       designation : CEO Co-Founder
       content : |
         Carla is an ...
-      social :
-        - icon : ti-facebook
-          link : "https://www.facebook.com/CarlaGarciaBcn"
-        - icon : ti-linkedin
-          link : "https://www.linkedin.com/in/carla-do%C3%B1a-garcia-36405225"
-      skills :
-        - name : Presentation & Public Speaking
-          percent : 60%
-        - name : Multi tasking
-          percent : 60%
-        - name : Teamwork
-          percent : 60%
-        - name : Creativity
-          percent : 30%
-        - name : Problem solving
-          percent : 60%
+      quiz:
+        - Clicker
+        - Excel
+        - Backstage
+        - Speaker
+        - I'm a 4x4
       languages :
         - name: Bulgarian
           percent: 100%
@@ -146,22 +140,12 @@ team:
       content : |
         Empathetic, responsible, decisive and detail-oriented person with team work skills,
         excellent customer handling and always willing to exceed objectives.
-      social :
-        - icon : ti-facebook
-          link : "https://www.facebook.com/ines.arnal"
-        - icon : ti-linkedin
-          link : "https://www.linkedin.com/in/inés-arnal-6abb601"
-      skills :
-        - name : Presentation & Public Speaking
-          percent : 60%
-        - name : Multi tasking
-          percent : 60%
-        - name : Teamwork
-          percent : 60%
-        - name : Creativity
-          percent : 30%
-        - name : Problem solving
-          percent : 60%
+      quiz:
+        - Clicker
+        - Excel
+        - Backstage
+        - Speaker
+        - I'm a 4x4
       languages :
         - name: Bulgarian
           percent: 100%
@@ -180,22 +164,12 @@ team:
         Positive, determined, decisive and passionate about her work.
         A great team player who stands for a big smile to face problems.
         She loves production and taking projects from A to Z.
-      social :
-        - icon : ti-user
-          link : "profiles/isabel.lavandeira/cv.pdf"
-        - icon : ti-linkedin
-          link : "https://www.linkedin.com/in/isabel-lavandeira-mart%C3%ADnez-888a8724"
-      skills :
-        - name : Presentation & Public Speaking
-          percent : 60%
-        - name : Multi tasking
-          percent : 60%
-        - name : Teamwork
-          percent : 60%
-        - name : Creativity
-          percent : 30%
-        - name : Problem solving
-          percent : 60%
+      quiz:
+        - Clicker
+        - Excel
+        - Backstage
+        - Speaker
+        - I'm a 4x4
       languages :
         - name: Bulgarian
           percent: 100%
@@ -213,20 +187,12 @@ team:
       content : |
         Expert in project management - communication and events, digital marketing and
         DMC operations - I feel motivated by challenges and the energy to surpass them.
-      social :
-        - icon : ti-linkedin
-          link : "https://www.linkedin.com/in/isabelle-bonneau-638b605/"
-      skills :
-        - name : Presentation & Public Speaking
-          percent : 60%
-        - name : Multi tasking
-          percent : 60%
-        - name : Teamwork
-          percent : 60%
-        - name : Creativity
-          percent : 30%
-        - name : Problem solving
-          percent : 60%
+      quiz:
+        - Clicker
+        - Excel
+        - Backstage
+        - Speaker
+        - I'm a 4x4
       languages :
         - name: Bulgarian
           percent: 100%
@@ -244,22 +210,12 @@ team:
       content : |
         He is our English Gentleman, the client oriented freelance par
         excellence with a technical approach as an added value to his profile.
-      social :
-        - icon : ti-user
-          link : "profiles/jorge.bermudez/cv.pdf"
-        - icon : ti-linkedin
-          link : "https://www.linkedin.com/in/jorge-bermudez-62498611/"
-      skills :
-        - name : Presentation & Public Speaking
-          percent : 60%
-        - name : Multi tasking
-          percent : 60%
-        - name : Teamwork
-          percent : 60%
-        - name : Creativity
-          percent : 30%
-        - name : Problem solving
-          percent : 60%
+      quiz:
+        - Clicker
+        - Excel
+        - Backstage
+        - Speaker
+        - I'm a 4x4
       languages :
         - name: Bulgarian
           percent: 100%
@@ -278,22 +234,12 @@ team:
         She is very sharp in execution and planning events.
         An extremely client oriented freelance with high self confidence.
         Great effectivity in problem solving.
-      social :
-        - icon : ti-user
-          link : "profiles/vyara.pelova/cv.pdf"
-        - icon : ti-linkedin
-          link : "https://www.linkedin.com/in/jorge-bermudez-62498611/"
-      skills :
-        - name : Presentation & Public Speaking
-          percent : 60%
-        - name : Multi tasking
-          percent : 60%
-        - name : Teamwork
-          percent : 60%
-        - name : Creativity
-          percent : 30%
-        - name : Problem solving
-          percent : 60%
+      quiz:
+        - Clicker
+        - Excel
+        - Backstage
+        - Speaker
+        - I'm a 4x4
       languages :
         - name: Bulgarian
           percent: 100%

@@ -110,7 +110,73 @@ p {
   transform: scale(1.15);
 }
 
-.team-skill-bar {
+
+.team-skills ul {
+  list-style-type: none;
+}
+
+.team-quiz h6 {
+  padding-top: 10px;
+  text-align: right;
+}
+
+.team-quiz-container {
+  line-height: 1.4;
+}
+
+.team-quiz-question ul {
+  text-align: center;
+  padding-inline-start: 0px;
+}
+
+.team-quiz-question li {
+  line-height: 1.4;
+  padding-left: 15px;
+  vertical-align: middle;
+  list-style-type: none;
+  display: inline;
+}
+
+.team-quiz-highlight-container,
+.team-quiz-highlight {
+  position: relative;
+}
+
+.team-quiz-highlight-container {
+  display: inline-block;
+  color: #030303;
+  font-weight: bolder;
+}
+
+.team-quiz-highlight-container:before,
+.team-quiz-highlight-container:after {
+  content: " ";
+  display: block;
+  height: 90%;
+  width: 115%;
+  margin-left: -3px;
+  margin-right: -3px;
+  position: absolute;
+}
+
+.team-quiz-highlight-container:before {
+  background: #F5A2A9E6;
+  transform: rotate(2deg);
+  top: -1px;
+  left: -1px;
+}
+
+.team-quiz-highlight-container:after {
+  background: #F5A2A999;
+  top: 3px;
+  right: -4px;
+}
+
+.team-quiz-highlight-container .highlight {
+  color: #333;
+  z-index: 4;
+}
+
   padding-left: 0px;
   padding-bottom: 15px;
 }
