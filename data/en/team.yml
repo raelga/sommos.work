@@ -49,15 +49,23 @@ team:
         - Backstage
         - Artist
         - I'm a 4x4
-      languages :
-        - name: Bulgarian
+      languages:
+        - name: French
+          percent: 100%
+        - name: Greek
           percent: 100%
         - name : English
-          percent : 60%
-        - name : Spanish
+          percent : 80%
+        - name : Dutch
           percent : 60%
         - name : German
           percent : 60%
+        - name : Spanish
+          percent : 60%
+        - name : Hebrew
+          percent : 20%
+        - name : Portuguese
+          percent : 20%
 
     - name : Aroha Doña
       image_webp : profiles/aroha.dona/image.webp
@@ -78,14 +86,16 @@ team:
         - Stage
         - Artist
         - I'm a 4x4
-      languages :
-        - name: Bulgarian
+      languages:
+        - name: Spanish
+          percent: 100%
+        - name: Catalan
           percent: 100%
         - name : English
-          percent : 60%
-        - name : Spanish
-          percent : 60%
-        - name : German
+          percent : 90%
+        - name : Italian
+          percent : 90%
+        - name : French
           percent : 60%
 
     - name : Camille Degenne
@@ -101,14 +111,14 @@ team:
         - Stage
         - Artist
         - I'm a 4x4
-      languages :
-        - name: Bulgarian
+      languages:
+        - name: French
           percent: 100%
         - name : English
+          percent : 90%
+        - name : Italian
           percent : 60%
         - name : Spanish
-          percent : 60%
-        - name : German
           percent : 60%
 
     - name : Carla Doña
@@ -123,14 +133,25 @@ team:
         - Backstage
         - Speaker
         - I'm a 4x4
-      languages :
-        - name: Bulgarian
+      languages:
+        - name: Spanish
+          percent: 100%
+        - name: Catalan
           percent: 100%
         - name : English
+          percent : 90%
+        - name : French
           percent : 60%
+        - name : Italian
+          percent : 60%
+
+        - I'm a 4x4
+      languages:
+        - name: French
+          percent: 100%
+        - name: English
+          percent: 90%
         - name : Spanish
-          percent : 60%
-        - name : German
           percent : 60%
 
     - name : Inés Arnal
@@ -140,21 +161,30 @@ team:
       content : |
         Empathetic, responsible, decisive and detail-oriented person with team work skills,
         excellent customer handling and always willing to exceed objectives.
+      languages:
+        - name: Spanish
+          percent: 100%
+        - name : English
+          percent : 90%
+        - name: German
+          percent: 20%
       quiz:
         - Clicker
         - Excel
         - Backstage
         - Speaker
         - I'm a 4x4
-      languages :
-        - name: Bulgarian
+      languages:
+        - name: French
           percent: 100%
         - name : English
-          percent : 60%
+          percent : 90%
         - name : Spanish
           percent : 60%
-        - name : German
+        - name : Catalan
           percent : 60%
+        - name: German
+          percent: 20%
 
     - name : Isabel Lavandeira
       image_webp : profiles/isabel.lavandeira/image.webp
@@ -170,14 +200,16 @@ team:
         - Backstage
         - Speaker
         - I'm a 4x4
-      languages :
-        - name: Bulgarian
+      languages:
+        - name: Spanish
+          percent: 100%
+        - name: Catalan
           percent: 100%
         - name : English
-          percent : 60%
-        - name : Spanish
-          percent : 60%
-        - name : German
+          percent : 90%
+        - name: French
+          percent: 60%
+        - name : Italian
           percent : 60%
 
     - name : Isabelle Bonneau
@@ -193,14 +225,12 @@ team:
         - Backstage
         - Speaker
         - I'm a 4x4
-      languages :
-        - name: Bulgarian
+      languages:
+        - name: Spanish
           percent: 100%
         - name : English
-          percent : 60%
-        - name : Spanish
-          percent : 60%
-        - name : German
+          percent : 90%
+        - name : Portuguese
           percent : 60%
 
     - name : Jorge Bermúdez
@@ -216,14 +246,16 @@ team:
         - Backstage
         - Speaker
         - I'm a 4x4
-      languages :
-        - name: Bulgarian
+      languages:
+        - name: English
           percent: 100%
-        - name : English
+        - name: Portuguese
+          percent: 100%
+        - name : German
+          percent : 60%
+        - name : Italian
           percent : 60%
         - name : Spanish
-          percent : 60%
-        - name : German
           percent : 60%
 
     - name : Vyara Pelova
@@ -240,12 +272,14 @@ team:
         - Backstage
         - Speaker
         - I'm a 4x4
-      languages :
+      languages:
         - name: Bulgarian
           percent: 100%
         - name : English
-          percent : 60%
+          percent : 90%
         - name : Spanish
+          percent : 90%
+        - name : Catalan
           percent : 60%
         - name : German
           percent : 60%
