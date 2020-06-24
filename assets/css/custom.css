@@ -141,7 +141,7 @@ p {
 
 .team-quiz-question li {
   line-height: 1.4;
-  padding-left: 15px;
+  padding: 2px 10px;
   vertical-align: middle;
   list-style-type: none;
   display: inline;
