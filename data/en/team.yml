@@ -288,36 +288,6 @@ team:
         - name : Portuguese
           percent : 60%
 
-    - name : Philippa Jaago
-      image_webp : profiles/philippa.jago/image.webp
-      image : profiles/philippa.jago/image.jpg
-      designation : Freelance Event Manager
-      description : |
-        She is very sharp in execution and planning events.
-        An extremely client oriented freelance with high self confidence.
-        Great effectivity in problem solving.
-      skills:
-        - ♐
-        - 🏊‍♀️
-        - 🚣‍♀️
-        - 🍝
-      quiz:
-        - Clicker
-        - Excel
-        - Backstage
-        - Speaker
-        - I'm a 4x4
-      languages:
-        - name: English
-          percent: 100%
-        - name: Portuguese
-          percent: 100%
-        - name : German
-          percent : 60%
-        - name : Italian
-          percent : 60%
-        - name : Spanish
-          percent : 60%
 
     - name : Vyara Pelova
       image_webp : profiles/vyara.pelova/image.webp
