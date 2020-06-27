@@ -138,13 +138,8 @@ p {
   display: inline;
 }
 
-.team-quiz h6 {
-  padding-top: 10px;
-  text-align: right;
-}
-
 .team-quiz-container {
-  line-height: 1.4;
+  padding-top: 20px;
 }
 
 .team-quiz-question ul {
