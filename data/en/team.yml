@@ -33,7 +33,7 @@ team:
       image : profiles/areti.grammatas/image.jpg
       designation : Freelance Event Manager
       description : |
-        Areti is an open minded freelance, with broad adaptability to new last minute situations.
+        Open minded freelance, with broad adaptability to new last minute situations.
         Very emphatic with clients and a great onsite multitasker.
         She is the right one to manage the logistics in big scale events.
       quiz:
@@ -65,7 +65,7 @@ team:
       image : profiles/aroha.dona/image.jpg
       designation : CEO Co-Founder
       description : |
-        She is a people lover.
+        People lover.
         A highly commited freelancer with a special eye on details, good taste and creative concept.
         Trying always to think out of the box to get a surprises effect on whatever she is up to.
       quiz:
@@ -89,7 +89,9 @@ team:
       image : profiles/camille.degenne/image.jpg
       designation : Freelance Event Manager
       description : |
-        She is a great team player, pro active in solution finding, multi-tasker & client oriented person. If you look for someone to coordinate logistics of big scale events, she is the one. She can easily work as both producer and onsite coordinator.
+        Great team player, pro active in solution finding, multi-tasker and client oriented person.
+        Experienced in logistic coordination of big scale events.
+        Can easily work as both producer and onsite coordinator.
       quiz:
         - Clicker
         - Excel
@@ -111,7 +113,8 @@ team:
       image : profiles/carla.dona/image.jpg
       designation : CEO Co-Founder
       description : |
-        She is an extremely positive, energetic, enthusiastic and self-motivated person working in the events industry. Some of her specialities include first class interpersonal and communication skills at all levels, excellent organizational skills mainly working under pressure, and high problem-solving ability at her every day work tasks.
+        Extremely positive, energetic, enthusiastic and self-motivated person working in the events industry.
+        First class interpersonal, communication and organizational skills.
       quiz:
         - Clicker
         - Brainstorming
@@ -133,7 +136,8 @@ team:
       image : profiles/coline.bassy/image.jpg
       designation : CEO Co-Founder
       description : |
-        Vibrant, enthusiastic and very easygoing freelance. She has  broad experience in incentives, tourism and medium scale events.  Our youngest and favorite dreamer looking for big challenges, very client oriented and committed to her work.She shares her passion to events with arts, and theatre working as a voice actress, dubbing series, documentaries and films in French.
+        Vibrant, enthusiastic and easygoing freelance with broad experience in incentives, tourism and medium scale events.
+        Our youngest dreamer looking for big challenges, client oriented and committed to her work.
       quiz:
         - Laptop
         - Brainstormig
@@ -155,7 +159,8 @@ team:
       image : profiles/ines.arnal/image.jpg
       designation : Freelance Event Manager
       description : |
-        Extremely responsible and detail-oriented freelance. An excellent customer handling with large patience who is always willing to exceed objectives. She is one of our best logistics production manager in Hotel and F&B industry. None cannot love Inés for her great teamwork skills.
+        One of our best logistics production manager in Hotel and F&B industry.
+        Extremely responsible and detail-oriented freelance. An excellent customer handling who is always willing to exceed objectives.
       quiz:
         - Laptop
         - Brainstormer
@@ -175,7 +180,7 @@ team:
       image : profiles/isabelle.bonneau/image.jpg
       designation : Freelance Event Manager
       description : |
-        Beyond multi-tasker by far, a highly qualified freelance whose expertise part from event manager and onsite coordinator is communication and digital marketing. Creativity, empathic and extremely organized are some of her strengths.
+        Beyond multi-tasker by far, a highly qualified freelance whose expertise part from event manager and onsite coordinator is communication and digital marketing. Creativity, empathy and organization are some of her strengths.
       quiz:
         - Laptop
         - Brainstorm
@@ -221,7 +226,7 @@ team:
       image : profiles/jorge.bermudez/image.jpg
       designation : Freelance Event Manager
       description : |
-        He is our English Gentleman, the client oriented freelance par excellence with a technical approach as an added value to his profile. He is a great producer with also large experience in car launch onsite management
+        Our English Gentleman, the client oriented freelance par excellence with a technical approach as an added value to his profile. He is a great producer with also large experience in car launch onsite management
       quiz:
         - Laptop
         - Brainstorming
@@ -243,8 +248,8 @@ team:
       image : profiles/vyara.pelova/image.jpg
       designation : Freelance Event Manager
       description : |
-        She is very sharp in execution and planning events. An extremely client oriented freelance with high self confidence. Great effectivity in problem solving.
-        Her main areas of expertise are onsite coordination of big scale events and pre- and post-event planning.
+        Very sharp in execution and planning events. An extremely client oriented freelance with high self confidence.
+        Her main areas of expertise are onsite coordination of big scale events and pre and post event planning.
       quiz:
         - Laptop
         - Excel
