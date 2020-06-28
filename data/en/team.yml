@@ -44,21 +44,21 @@ team:
         - I'm a 4x4
       languages:
         - name: French
-          percent: 60%
+          percent: 100%
         - name: Greek
-          percent: 60%
+          percent: 100%
         - name : Dutch
-          percent : 60%
+          percent : 100%
         - name : English
-          percent : 50%
+          percent : 80%
         - name : Spanish
-          percent : 50%
+          percent : 80%
         - name : German
-          percent : 40%
+          percent : 60%
         - name : Portuguese
-          percent : 40%
+          percent : 60%
         - name : Hebrew
-          percent : 30%
+          percent : 40%
 
     - name : Aroha Doña
       image_webp : profiles/aroha.dona/image.webp
@@ -75,14 +75,12 @@ team:
       languages:
         - name: Spanish
           percent: 100%
-        - name: Catalan
-          percent: 100%
         - name : English
-          percent : 90%
+          percent : 80%
         - name : Italian
-          percent : 90%
+          percent : 80%
         - name : French
-          percent : 60%
+          percent : 50%
 
     - name : Camille Degenne
       image_webp : profiles/camille.degenne/image.webp
@@ -98,13 +96,13 @@ team:
         - I'm a 4x4
       languages:
         - name: French
-          percent: 60%
+          percent: 100%
         - name : English
-          percent : 50%
-        - name : Italian
-          percent : 50%
+          percent : 80%
         - name : Spanish
-          percent : 40%
+          percent : 80%
+        - name : Italian
+          percent : 60%
 
     - name : Carla Doña
       image_webp : profiles/carla.dona/image.webp
@@ -120,11 +118,11 @@ team:
         - I'm a 4x4
       languages:
         - name: Spanish
-          percent: 70%
+          percent: 100%
         - name: English
-          percent: 70%
+          percent: 80%
         - name : French
-          percent : 50%
+          percent : 60%
         - name : Italian
           percent : 40%
 
@@ -142,13 +140,13 @@ team:
         - I'm a 4x4
       languages:
         - name: French
-          percent: 60%
+          percent: 100%
         - name: English
-          percent: 50%
+          percent: 80%
         - name : Spanish
-          percent : 50%
+          percent : 80%
         - name : Italian
-          percent : 40%
+          percent : 60%
 
     - name : Inés Arnal
       image_webp : profiles/ines.arnal/image.webp
@@ -164,18 +162,18 @@ team:
         - I'm a 4x4
       languages:
         - name: Spanish
-          percent: 60%
+          percent: 100%
         - name : English
-          percent : 50%
+          percent : 80%
         - name: German
-          percent: 30%
+          percent: 40%
 
     - name : Isabelle Bonneau
       image_webp : profiles/isabelle.bonneau/image.webp
       image : profiles/isabelle.bonneau/image.jpg
       designation : Freelance Event Manager
       description : |
-        Isabelle is beyond multi-tasker by far, a highly qualified freelance whose expertise part from event manager and onsite coordinator is communication and digital marketing. Creativity, empathic and extremely organized are some of her strengths.
+        Beyond multi-tasker by far, a highly qualified freelance whose expertise part from event manager and onsite coordinator is communication and digital marketing. Creativity, empathic and extremely organized are some of her strengths.
       quiz:
         - Laptop
         - Brainstorm
@@ -184,13 +182,13 @@ team:
         - I'm a 4x4
       languages:
         - name: French
-          percent: 60%
+          percent: 100%
         - name : English
-          percent : 50%
+          percent : 80%
         - name : Spanish
-          percent : 50%
-        - name: German
-          percent: 30%
+          percent : 80%
+        - name: Dutch
+          percent: 40%
 
     - name : Isabel Lavandeira
       image_webp : profiles/isabel.lavandeira/image.webp
@@ -206,13 +204,13 @@ team:
         - I'm a 4x4
       languages:
         - name: Spanish
-          percent: 60%
+          percent: 100%
         - name : English
-          percent : 50%
+          percent : 80%
         - name: French
-          percent: 50%
+          percent: 80%
         - name : Italian
-          percent : 50%
+          percent : 80%
         - name : Dutch
           percent : 20%
 
@@ -230,13 +228,13 @@ team:
         - I'm a 4x4
       languages:
         - name: Spanish
-          percent: 60%
+          percent: 100%
         - name : English
-          percent : 60%
+          percent : 80%
         - name : Portuguese
-          percent : 40%
+          percent : 60%
         - name : French
-          percent : 30%
+          percent : 40%
 
     - name : Vyara Pelova
       image_webp : profiles/vyara.pelova/image.webp
@@ -253,10 +251,10 @@ team:
         - I'm a 4x4
       languages:
         - name: Bulgarian
-          percent: 60%
+          percent: 100%
         - name : English
-          percent : 60%
+          percent : 80%
         - name : Spanish
-          percent : 60%
+          percent : 80%
         - name : German
-          percent : 60%
+          percent : 80%
