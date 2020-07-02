@@ -1,19 +1,19 @@
 [[main]]
-name = "About"
+name = "about"
 URL = "about"
 weight = 1
 
 [[main]]
-name = "Family"
+name = "family"
 URL = "team"
 weight = 2
 
 [[main]]
-name = "Bookings"
-URL = "pricing"
+name = "how"
+URL = "how"
 weight = 3
 
 [[main]]
-name = "Contact"
+name = "contact"
 URL = "contact"
 weight = 4
