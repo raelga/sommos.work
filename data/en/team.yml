@@ -30,7 +30,7 @@ team:
 
     - name : Areti Grammatas
       image_webp : profiles/areti.grammatas/image.webp
-      image : profiles/areti.grammatas/image.jpg
+      image : profiles/areti.grammatas/image.png
       designation : Freelance Event Manager
       description : |
         Open minded freelance, with broad adaptability to new last minute situations.
@@ -62,7 +62,7 @@ team:
 
     - name : Aroha Doña
       image_webp : profiles/aroha.dona/image.webp
-      image : profiles/aroha.dona/image.jpg
+      image : profiles/aroha.dona/image.png
       designation : CEO Co-Founder
       description : |
         People lover.
@@ -86,7 +86,7 @@ team:
 
     - name : Camille Degenne
       image_webp : profiles/camille.degenne/image.webp
-      image : profiles/camille.degenne/image.jpg
+      image : profiles/camille.degenne/image.png
       designation : Freelance Event Manager
       description : |
         Great team player, pro active in solution finding, multi-tasker and client oriented person.
@@ -110,7 +110,7 @@ team:
 
     - name : Carla Doña
       image_webp : profiles/carla.dona/image.webp
-      image : profiles/carla.dona/image.jpg
+      image : profiles/carla.dona/image.png
       designation : CEO Co-Founder
       description : |
         Extremely positive, energetic, enthusiastic and self-motivated person working in the events industry.
@@ -133,14 +133,14 @@ team:
 
     - name : Coline Basys
       image_webp : profiles/coline.bassy/image.webp
-      image : profiles/coline.bassy/image.jpg
+      image : profiles/coline.bassy/image.png
       designation : CEO Co-Founder
       description : |
         Vibrant, enthusiastic and easygoing freelance with broad experience in incentives, tourism and medium scale events.
         Our youngest dreamer looking for big challenges, client oriented and committed to her work.
       quiz:
         - Laptop
-        - Brainstormig
+        - Brainstorming
         - Backstage
         - Artist
         - I'm a 4x4
@@ -156,14 +156,14 @@ team:
 
     - name : Inés Arnal
       image_webp : profiles/ines.arnal/image.webp
-      image : profiles/ines.arnal/image.jpg
+      image : profiles/ines.arnal/image.png
       designation : Freelance Event Manager
       description : |
         One of our best logistics production manager in Hotel and F&B industry.
         Extremely responsible and detail-oriented freelance. An excellent customer handling who is always willing to exceed objectives.
       quiz:
         - Laptop
-        - Brainstormer
+        - Brainstorming
         - Backstage
         - Speaker
         - I'm a 4x4
@@ -177,13 +177,13 @@ team:
 
     - name : Isabelle Bonneau
       image_webp : profiles/isabelle.bonneau/image.webp
-      image : profiles/isabelle.bonneau/image.jpg
+      image : profiles/isabelle.bonneau/image.png
       designation : Freelance Event Manager
       description : |
         Beyond multi-tasker by far, a highly qualified freelance whose expertise part from event manager and onsite coordinator is communication and digital marketing. Creativity, empathy and organization are some of her strengths.
       quiz:
         - Laptop
-        - Brainstorm
+        - Brainstorming
         - Backstage
         - Artist
         - I'm a 4x4
@@ -199,7 +199,7 @@ team:
 
     - name : Isabel Lavandeira
       image_webp : profiles/isabel.lavandeira/image.webp
-      image : profiles/isabel.lavandeira/image.jpg
+      image : profiles/isabel.lavandeira/image.png
       designation : Freelance Event Manager
       description : |
         Positive, determined, decisive and passionate about her work. A great team player who stands for a big smile to face problems. She loves production and taking projects from A to Z.
@@ -223,7 +223,7 @@ team:
 
     - name : Jorge Bermúdez
       image_webp : profiles/jorge.bermudez/image.webp
-      image : profiles/jorge.bermudez/image.jpg
+      image : profiles/jorge.bermudez/image.png
       designation : Freelance Event Manager
       description : |
         Our English Gentleman, the client oriented freelance par excellence with a technical approach as an added value to his profile. He is a great producer with also large experience in car launch onsite management
@@ -245,7 +245,7 @@ team:
 
     - name : Vyara Pelova
       image_webp : profiles/vyara.pelova/image.webp
-      image : profiles/vyara.pelova/image.jpg
+      image : profiles/vyara.pelova/image.png
       designation : Freelance Event Manager
       description : |
         Very sharp in execution and planning events. An extremely client oriented freelance with high self confidence.
