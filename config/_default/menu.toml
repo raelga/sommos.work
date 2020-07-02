@@ -9,6 +9,11 @@ URL = "team"
 weight = 2
 
 [[main]]
+name = "Bookings"
+URL = "pricing"
+weight = 3
+
+[[main]]
 name = "Contact"
 URL = "contact"
-weight = 3
+weight = 4
