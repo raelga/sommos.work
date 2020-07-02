@@ -2,8 +2,8 @@
 
 {{ with $data.how.spec }}
 {{"<!-- Start Pricing section -->" | safeHTML}}
-<section id="how" class="pricing section">
-  <div class="container">
+<section id="how" class="how section">
+  <div id="bookings" class="container">
     <div class="row justify-content-center">
 
       {{"<!-- section title -->" | safeHTML}}
@@ -18,22 +18,49 @@
       {{"<!-- /section title -->" | safeHTML}}
 
       {{ range .bookings }}
-      {{"<!-- single pricing table -->" | safeHTML}}
-      <div class="col-lg-4 col-md-6 col-12 text-center wow fadeInUp" data-wow-duration="200ms">
-        <a class="block-link block-link-transparent" href="{{ .link | safeURL }}">
-          <div class="block-link block-link-transparent price-item">
-            {{"<!-- plan name & value -->" | safeHTML}}
-            <div class="price-title">
-              <h3>{{ .name }}</h3>
-              <p><strong class="value">{{ .price }}</strong> / {{ .unit }}</p>
-            </div>
+      {{"<!-- single bookings table -->" | safeHTML}}
+      <div class="col-lg-6 col-md-6 col-12 text-center wow fadeInUp" data-wow-duration="200ms">
+        <div class="service-item">
+
+          {{"<!-- plan name & value -->" | safeHTML}}
+          <div class="service-title">
+            <h3>{{ .name }}</h3>
           </div>
-        </a>
+
+          <div class="service-list">
+            {{"<!-- plan description -->" | safeHTML}}
+            <ul>
+              {{ range .services }}
+              <li>{{ . }}</li>
+              {{ end }}
+            </ul>
+          </div>
+
+        </div>
       </div>
-      {{"<!-- end single pricing table -->" | safeHTML}}
+      {{"<!-- end single bookings table -->" | safeHTML}}
       {{ end }}
     </div>
   </div>
+
+  <div class="container">
+    <div id="process" class="row justify-content-center">
+      {{ range .process }}
+      {{"<!-- Single Service Item -->" | safeHTML }}
+      <article class="col-lg-6 col-md-6 col-12 wow fadeInUp" data-wow-duration="500ms">
+        <div class="process-block text-center">
+          <div class="process-icon text-center">
+            <i class="{{ .icon }}"></i>
+          </div>
+          <h3>{{ .name | markdownify }}</h3>
+          <p>{{ .content | markdownify }}</p>
+        </div>
+      </article>
+      {{"<!-- End Single Service Item -->" | safeHTML }}
+      {{ end }}
+    </div>
+  </div>
+
 </section>
-{{"<!-- /pricing -->" | safeHTML}}
+{{"<!-- /how -->" | safeHTML}}
 {{ end }}

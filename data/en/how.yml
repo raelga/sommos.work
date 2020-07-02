@@ -5,7 +5,37 @@ spec:
   bookings:
 
     - name: Home Office
-      link: "#contact"
+      services:
+        - home office (up to 8 hours)
+        - additional hour
+      button:
+        label: "Contact"
+        link: "#contact"
 
     - name: Onsite Coordinator
-      link: "#contact"
+      services:
+        - full day onsite (up to 12 hours)
+        - half day onsite (up to 6 hours)
+        - transfer in/out (up to 2 hours)
+        - lunch/dinner coordination (up to 5 hours)
+      button:
+        label: "Contact"
+        link: "#contact"
+
+  process:
+
+    - name: Find the Right Freelancer for You!
+      icon: ti-search
+      content: Explore freelancer profiles to view their areas of expertise.
+
+    - name: Discuss the Project
+      icon: ti-comments
+      content: Contact us by email to further get to know the freelancer, discuss project details and negotiate rates.
+
+    - name: Hire a Freelancer
+      icon: ti-ink-pen
+      content: Once you might have an idea of your preferred freelancers, we will send you the cvs of those available for your project. We’ll share contact info and let you take it from there!
+
+    - name: Rate & Review
+      icon: ti-star
+      content: Your feedback is very important to become better and better, It will be very appreciated to discuss your experience for hopefully many more to come!
