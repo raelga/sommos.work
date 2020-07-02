@@ -1,0 +1,11 @@
+##################################### bookings ##############################
+spec:
+  enable: true
+  title: How it works
+  bookings:
+
+    - name: Home Office
+      link: "#contact"
+
+    - name: Onsite Coordinator
+      link: "#contact"
