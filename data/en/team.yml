@@ -79,9 +79,9 @@ team:
           percent: 100%
         - name : English
           percent : 80%
-        - name : Italian
-          percent : 80%
         - name : French
+          percent : 80%
+        - name : Italian
           percent : 50%
 
     - name : Camille Degenne
@@ -198,7 +198,7 @@ team:
           percent : 80%
         - name : Spanish
           percent : 80%
-        - name: Dutch
+        - name: German
           percent: 40%
 
     - name : Isabel Lavandeira
@@ -256,7 +256,7 @@ team:
       designation : Freelance Event Manager
       description : |
         Vyara is very sharp with high communication skills.
-        An extremely client oriented freelance with excellent effectivity in problem solving when executing events.
+        An extremely client oriented freelance with excellent effectivity in problem solving.
         Her main areas of expertise are onsite coordination of big scale events and car launching.
       quiz:
         - Laptop
