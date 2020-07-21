@@ -7,12 +7,11 @@ spec:
     - name: Home Office
       services:
         - home office (up to 8 hours)
-        - additional hour
       button:
         label: "Contact"
         link: "#contact"
 
-    - name: Onsite Coordinator
+    - name: Onsite
       services:
         - full day onsite (up to 12 hours)
         - half day onsite (up to 6 hours)
@@ -38,4 +37,4 @@ spec:
 
     - name: Rate & Review
       icon: ti-star
-      content: Your feedback is very important to become better and better, It will be very appreciated to discuss your experience for hopefully many more to come!
+      content: Your feedback is very important to become better and better. It will be very appreciated to discuss your experience for hopefully many more to come!
