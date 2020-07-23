@@ -1,0 +1,67 @@
+{{"<!-- end Contact Area -->" | safeHTML}}
+<footer id="footer" class="section-bg">
+  <div class="container">
+    <div class="row wow fadeInUp" data-wow-duration="500ms">
+      <div class="col-xl-12">
+
+        {{"<!-- Footer Social Links -->" | safeHTML}}
+        <div class="social-icon">
+          <ul class="list-inline">
+            {{ range .Site.Params.social }}
+            <li class="list-inline-item"><a href="{{ .link | safeURL }}"><i class="{{ .icon }}"></i></a></li>
+            {{ end }}
+          </ul>
+        </div>
+
+        {{"<!-- copyright -->" | safeHTML}}
+        <div class="copyright text-center">
+          <a href="{{ .Site.BaseURL | absLangURL }}">
+            <img src="{{ .Site.Params.footerLogo | absURL }}" alt="{{ .Site.Title }}" />
+          </a>
+          <br>
+          <p>{{ i18n "copyright" | markdownify }}</p>
+        </div>
+        {{"<!-- powered -->" | safeHTML}}
+        <div class="powered text-center">
+          <p>{{ i18n "powered" | markdownify }}</p>
+        </div>
+      </div>
+    </div>
+  </div>
+</footer>
+{{"<!-- /footer -->" | safeHTML}}
+
+{{ "<!-- Plugins JS -->" | safeHTML }}
+{{- $js_bundle := slice -}}
+
+{{- if .Site.Params.map.enable -}}
+{{- $js_bundle := .Site.Params.map.gmap_api | safeURL  -}}
+{{- end -}}
+
+{{- range .Site.Params.plugins.js -}}
+{{- $js_bundle = $js_bundle | append ( resources.Get . ) -}}
+{{- end -}}
+
+{{- $js_bundle = $js_bundle | append ( resources.Get "js/script.js" ) -}}
+
+{{ $js_bundle := $js_bundle | resources.Concat "js/bundle.js" | fingerprint "md5" }}
+<script src="{{ $js_bundle.RelPermalink }}"></script>
+
+{{ "<!-- google analitycs -->" | safeHTML }}
+{{ with .Site.Params.google_analitycs_id -}}
+<script>
+  (function (i, s, o, g, r, a, m) {
+    i['GoogleAnalyticsObject'] = r;
+    i[r] = i[r] || function () {
+      (i[r].q = i[r].q || []).push(arguments)
+    }, i[r].l = 1 * new Date();
+    a = s.createElement(o),
+      m = s.getElementsByTagName(o)[0];
+    a.async = 1;
+    a.src = g;
+    m.parentNode.insertBefore(a, m)
+  })(window, document, 'script', '//www.google-analytics.com/analytics.js', 'ga');
+  ga('create', '{{ . }}', 'auto');
+  ga('send', 'pageview');
+</script>
+{{ end }}

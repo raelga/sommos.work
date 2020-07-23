@@ -1,0 +1,275 @@
+############################### team ############################
+team:
+  enable : true
+  title : Our Team
+
+  quiz:
+    - name: Q1
+      options:
+        - Clicker
+        - Laptop
+    - name: Q2
+      options:
+        - Excel
+        - Brainstorming
+    - name: Q3
+      options:
+        - Stage
+        - Backstage
+    - name: Q4
+      options:
+        - Speaker
+        - Artist
+    - name: Q5
+      options:
+        - Early morning
+        - Late Night
+        - I'm a 4x4
+
+  team_member :
+
+    - name : Areti Grammatas
+      image_webp : profiles/areti.grammatas/image.webp
+      image : profiles/areti.grammatas/image.png
+      designation : Freelance Event Manager
+      description : |
+        Areti is an open minded and energetic freelancer with easy adaptation to last minute situations.
+        Very emphatic with clients and a great onsite multitasker.
+        She is the one to manage the logistics in big scale events.
+      quiz:
+        - Clicker
+        - Brainstorming
+        - Backstage
+        - Artist
+        - I'm a 4x4
+      languages:
+        - name: French
+          percent: 100%
+        - name: Greek
+          percent: 100%
+        - name : Dutch
+          percent : 100%
+        - name : English
+          percent : 80%
+        - name : Spanish
+          percent : 80%
+        - name : German
+          percent : 60%
+        - name : Portuguese
+          percent : 60%
+        - name : Hebrew
+          percent : 40%
+
+    - name : Aroha Doña
+      image_webp : profiles/aroha.dona/image.webp
+      image : profiles/aroha.dona/image.png
+      designation : CEO Co-Founder
+      description : |
+        She is a people lover.
+        A highly committed and positive freelancer with a special eye on details, good taste and creative concept.
+        Trying always to think out of the box to get a surprise effect on whatever she is up to, both as producer and onsite coordinator.
+      quiz:
+        - Laptop
+        - Brainstorming
+        - Stage
+        - Artist
+        - I'm a 4x4
+      languages:
+        - name: Spanish
+          percent: 100%
+        - name : English
+          percent : 80%
+        - name : French
+          percent : 80%
+        - name : Italian
+          percent : 50%
+
+    - name : Camille Degenne
+      image_webp : profiles/camille.degenne/image.webp
+      image : profiles/camille.degenne/image.png
+      designation : Freelance Event Manager
+      description : |
+        She is a great team player, pro active in solution finding, multi-tasker & client oriented person.
+        Camille can easily work as both producer and onsite coordinator for big scale events with a special talent for Cruises management.
+      quiz:
+        - Clicker
+        - Excel
+        - Stage
+        - Artist
+        - I'm a 4x4
+      languages:
+        - name: French
+          percent: 100%
+        - name : English
+          percent : 80%
+        - name : Spanish
+          percent : 80%
+        - name : Italian
+          percent : 60%
+
+    - name : Carla Doña
+      image_webp : profiles/carla.dona/image.webp
+      image : profiles/carla.dona/image.png
+      designation : CEO Co-Founder
+      description : |
+        She is an extremely positive, energetic and self-motivated person.
+        Some of her strenghs include first class interpersonal and communication skills at all levels, a great organizer working under pressure with high problem-solving ability.
+      quiz:
+        - Clicker
+        - Brainstorming
+        - Stage
+        - Artist
+        - I'm a 4x4
+      languages:
+        - name: Spanish
+          percent: 100%
+        - name: English
+          percent: 80%
+        - name : French
+          percent : 60%
+        - name : Italian
+          percent : 40%
+
+    - name : Coline Basys
+      image_webp : profiles/coline.bassy/image.webp
+      image : profiles/coline.bassy/image.png
+      designation : CEO Co-Founder
+      description : |
+        Vibrant, enthusiastic and very easygoing freelance.
+        She has broad experience in incentives, tourism and medium scale events.
+        Our youngest and favorite dreamer is looking for big challenges.
+        Highly client oriented and committed to her work.
+      quiz:
+        - Laptop
+        - Brainstorming
+        - Backstage
+        - Artist
+        - I'm a 4x4
+      languages:
+        - name: French
+          percent: 100%
+        - name: English
+          percent: 80%
+        - name : Spanish
+          percent : 80%
+        - name : Italian
+          percent : 60%
+
+    - name : Inés Arnal
+      image_webp : profiles/ines.arnal/image.webp
+      image : profiles/ines.arnal/image.png
+      designation : Freelance Event Manager
+      description : |
+        Extremely responsible and detail-oriented freelance with effective customer handling skills.
+        She is always willing to exceed goals.
+        Inés is one of our best logistics production manager in Hotel and F&B industry.
+      quiz:
+        - Laptop
+        - Brainstorming
+        - Backstage
+        - Speaker
+        - I'm a 4x4
+      languages:
+        - name: Spanish
+          percent: 100%
+        - name : English
+          percent : 80%
+        - name: German
+          percent: 40%
+
+    - name : Isabelle Bonneau
+      image_webp : profiles/isabelle.bonneau/image.webp
+      image : profiles/isabelle.bonneau/image.png
+      designation : Freelance Event Manager
+      description : |
+        A multi-tasker person, highly qualified to face large events.
+        She can offer another approach to the projects thanks to her skills on communication and digital marketing.
+        Creative, empathic and extremely organized are some of her strengths.
+      quiz:
+        - Laptop
+        - Brainstorming
+        - Backstage
+        - Artist
+        - I'm a 4x4
+      languages:
+        - name: French
+          percent: 100%
+        - name : English
+          percent : 80%
+        - name : Spanish
+          percent : 80%
+        - name: German
+          percent: 40%
+
+    - name : Isabel Lavandeira
+      image_webp : profiles/isabel.lavandeira/image.webp
+      image : profiles/isabel.lavandeira/image.png
+      designation : Freelance Event Manager
+      description : |
+        Positive, determined, decisive and passionate about her work.
+        A great team player who stands for a big smile to face problems.
+        Isabel loves production and taking projects from A to Z.
+      quiz:
+        - Laptop
+        - Excel
+        - Backstage
+        - Speaker
+        - I'm a 4x4
+      languages:
+        - name: Spanish
+          percent: 100%
+        - name : English
+          percent : 80%
+        - name: French
+          percent: 80%
+        - name : Italian
+          percent : 80%
+        - name : Dutch
+          percent : 20%
+
+    - name : Jorge Bermúdez
+      image_webp : profiles/jorge.bermudez/image.webp
+      image : profiles/jorge.bermudez/image.png
+      designation : Freelance Event Manager
+      description : |
+        Jorge is our English Gentleman, the client oriented freelance par excellence with a technical approach as an added value to his profile.
+        He is a great producer with also large experience in car launch onsite management.
+      quiz:
+        - Laptop
+        - Brainstorming
+        - Stage
+        - Artist
+        - I'm a 4x4
+      languages:
+        - name: Spanish
+          percent: 100%
+        - name : English
+          percent : 80%
+        - name : Portuguese
+          percent : 60%
+        - name : French
+          percent : 40%
+
+    - name : Vyara Pelova
+      image_webp : profiles/vyara.pelova/image.webp
+      image : profiles/vyara.pelova/image.png
+      designation : Freelance Event Manager
+      description : |
+        Vyara is very sharp with high communication skills.
+        An extremely client oriented freelance with excellent effectivity in problem solving.
+        Her main areas of expertise are onsite coordination of big scale events and car launching.
+      quiz:
+        - Laptop
+        - Excel
+        - Backstage
+        - Speaker
+        - I'm a 4x4
+      languages:
+        - name: Bulgarian
+          percent: 100%
+        - name : English
+          percent : 80%
+        - name : Spanish
+          percent : 80%
+        - name : German
+          percent : 80%

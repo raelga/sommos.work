@@ -1,0 +1,28 @@
+- id: blogTitle
+  translation: Latest Post
+- id: readMore
+  translation: Read more
+- id: viewAllPost
+  translation: View All Post
+- id: share
+  translation: Share
+- id: aboutAuthor
+  translation: About author
+- id: authorsPosts
+  translation: Author's posts
+- id: submit
+  translation: Submit
+- id: all
+  translation: All
+- id: about
+  translation: About Us
+- id: family
+  translation: Family
+- id: how
+  translation: How it works
+- id: contact
+  translation: Contact
+- id: copyright
+  translation: "[sommos](https://sommos.work) 2020"
+- id: powered
+  translation: Code in [GitHub](https://github.com/raelga/sommos.work) - Powered by [Hugo](https://gohugo.io/) + [Meghna](https://github.com/themefisher/meghna-hugo) + [Netlify](https://www.netlify.com/)

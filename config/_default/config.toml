@@ -1,0 +1,3 @@
+baseURL = "https://beta.sommos.work"
+title = "sommos"
+theme = "meghna-hugo"

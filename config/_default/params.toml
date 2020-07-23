@@ -1,0 +1,45 @@
+logo = "images/logo.png"
+footerLogo  = "images/logo-m.png"
+# Meta data
+description = "Your local event freelancers"
+author = "Sommos"
+# Google Analitycs
+google_analitycs_id = "G-81H578T2QX"
+# post share
+post_share = true
+
+[plugins]
+css = [
+  "plugins/bootstrap/bootstrap.min.css",
+  "plugins/magnific-popup/magnific-popup.css",
+  "plugins/slick/slick.css",
+  "fonts/pt-mono.css",
+]
+
+js = [
+  "plugins/jquery/jquery.min.js",
+  "plugins/bootstrap/bootstrap.min.js",
+  "plugins/slick/slick.min.js",
+  "plugins/shuffle/shuffle.min.js",
+  "plugins/magnific-popup/jquery.magnific-popup.min.js",
+  "plugins/lazy-load/lozad.min.js",
+  "plugins/google-map/map.js"
+]
+
+# preloader
+[preloader]
+enable = true
+preloader = "images/logo.png"
+
+# social
+[[social]]
+icon = "ti-facebook"
+link = "https://www.facebook.com/sommos.work/"
+
+[[social]]
+icon = "ti-linkedin"
+link = "https://www.linkedin.com/company/sommoswork/about/"
+
+[[social]]
+icon = "ti-instagram"
+link = "https://www.instagram.com/Sommos.work/"

@@ -1,0 +1,66 @@
+{{ $data := index .Site.Data .Site.Language.Lang }}
+
+{{ with $data.how.spec }}
+{{"<!-- Start Pricing section -->" | safeHTML}}
+<section id="how" class="how section">
+  <div id="bookings" class="container">
+    <div class="row justify-content-center">
+
+      {{"<!-- section title -->" | safeHTML}}
+      <div class="col-lg-12">
+        <div class="title text-center wow fadeInDown" data-wow-duration="500ms">
+          <h2>{{ with .title }} {{ delimit (first (sub (countwords .) 1)  (split . " ")) " " }} {{ end }}<span
+              class="color">
+              {{ with .title }} {{ index (last 1 (split . " ")) 0 }} {{ end }}</span></h2>
+          <div class="border-meghna"></div>
+        </div>
+      </div>
+      {{"<!-- /section title -->" | safeHTML}}
+
+      {{ range .bookings }}
+      {{"<!-- single bookings table -->" | safeHTML}}
+      <div class="col-lg-6 col-md-6 col-12 text-center wow fadeInUp" data-wow-duration="200ms">
+        <div class="service-item">
+
+          {{"<!-- plan name & value -->" | safeHTML}}
+          <div class="service-title">
+            <h3>{{ .name }}</h3>
+          </div>
+
+          <div class="service-list">
+            {{"<!-- plan description -->" | safeHTML}}
+            <ul>
+              {{ range .services }}
+              <li>{{ . }}</li>
+              {{ end }}
+            </ul>
+          </div>
+
+        </div>
+      </div>
+      {{"<!-- end single bookings table -->" | safeHTML}}
+      {{ end }}
+    </div>
+  </div>
+
+  <div class="container">
+    <div id="process" class="row justify-content-center">
+      {{ range .process }}
+      {{"<!-- Single Service Item -->" | safeHTML }}
+      <article class="col-lg-6 col-md-6 col-12 wow fadeInUp" data-wow-duration="500ms">
+        <div class="process-block text-center">
+          <div class="process-icon text-center">
+            <i class="{{ .icon }}"></i>
+          </div>
+          <h3>{{ .name | markdownify }}</h3>
+          <p>{{ .content | markdownify }}</p>
+        </div>
+      </article>
+      {{"<!-- End Single Service Item -->" | safeHTML }}
+      {{ end }}
+    </div>
+  </div>
+
+</section>
+{{"<!-- /how -->" | safeHTML}}
+{{ end }}

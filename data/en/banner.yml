@@ -1,0 +1,14 @@
+############################### Banner ################################
+banner:
+  enable : true
+  # Photo by Cori Rodriguez from Pexels
+  bg_image_webp : "images/backgrounds/fauxels-photo-of-people-leaning-on-wooden-table-3184325.webp"
+  bg_image : "images/backgrounds/fauxels-photo-of-people-leaning-on-wooden-table-3184325.jpg"
+  icon : ""
+  title : "sommos"
+  logo: "images/logo.png"
+  content : "Your local event freelancers"
+  button:
+    enable : true
+    label : "let's get started"
+    link : "#about"
