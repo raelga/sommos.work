@@ -4,7 +4,7 @@ footerLogo  = "images/logo-m.png"
 description = "Your local event freelancers"
 author = "Sommos"
 # Google Analitycs
-google_analitycs_id = "G-81H578T2QX"
+google_analitycs_id = "UA-162398511-1"
 # post share
 post_share = true
 
