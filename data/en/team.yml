@@ -28,6 +28,28 @@ team:
 
   team_member :
 
+    - name : Alberto
+      image_webp : profiles/alberto/image.webp
+      image : profiles/alberto/image.png
+      designation : Freelance Event Manager
+      description : |
+        I was responsible for production in a big event commemorating the Day of the Dead in Mexico.
+        In a 2,400m2 space, we achieved a spectacular decoration with typical objects brought from the country,
+        more than 7,000 flowers, a ceiling covered with guitars and different thematic areas.
+      quiz:
+        - Laptop
+        - Excel
+        - Backstage
+        - Speaker
+        - I'm a 4x4
+      languages:
+        - name: Spanish
+          percent: 100%
+        - name: English
+          percent: 75%
+        - name : French
+          percent : 60%
+
     - name : Areti Grammatas
       image_webp : profiles/areti.grammatas/image.webp
       image : profiles/areti.grammatas/image.png
