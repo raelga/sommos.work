@@ -316,6 +316,32 @@ team:
           percent : 90%
 
 
+    - name : Vanessa
+      image_webp : profiles/vanessa/image.webp
+      image : profiles/vanessa/image.png
+      designation : Freelance Event Manager
+      description : |
+        Vanessa is a very self motivated person always willing to learn and help others with
+        a huge hunger for new challenges. Very trustful and very talented with massive presentation and public speaking skills.
+        Weddings and corporate events are her fields of expertise.
+      quiz:
+        - Clicker
+        - Brainstorming
+        - Backstage
+        - Artist
+        - I'm a 4x4
+      languages:
+        - name: Spanish
+          percent: 100%
+        - name : Euskera
+          percent : 100%
+        - name : English
+          percent : 80%
+        - name : French
+          percent : 60%
+        - name : German
+          percent : 60%
+
     - name : Vyara
       image_webp : profiles/vyara/image.webp
       image : profiles/vyara/image.png
