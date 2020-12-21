@@ -70,6 +70,11 @@ team:
         - name: English
           percent: 75%
 
+    - name : Areti
+      image_webp : profiles/areti/image.webp
+      image : profiles/areti/image.png
+      designation : Freelance Event Manager
+      description : |
         Areti is an open minded and energetic freelancer with easy adaptation to last minute situations.
         Very emphatic with clients and a great onsite multitasker.
         She is the one to manage the logistics in big scale events.
