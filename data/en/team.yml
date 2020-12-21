@@ -149,9 +149,9 @@ team:
         - name : Italian
           percent : 60%
 
-    - name : Carla Doña
-      image_webp : profiles/carla.dona/image.webp
-      image : profiles/carla.dona/image.png
+    - name : Carla
+      image_webp : profiles/carla/image.webp
+      image : profiles/carla/image.png
       designation : CEO Co-Founder
       description : |
         She is an extremely positive, energetic and self-motivated person.
