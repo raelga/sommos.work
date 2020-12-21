@@ -50,11 +50,26 @@ team:
         - name : French
           percent : 60%
 
-    - name : Areti Grammatas
-      image_webp : profiles/areti.grammatas/image.webp
-      image : profiles/areti.grammatas/image.png
+    - name : Ana
+      image_webp : profiles/ana/image.webp
+      image : profiles/ana/image.png
       designation : Freelance Event Manager
       description : |
+        Our most recent freelancer Ana, is a highly planned, organized and dedicated Event planner
+        with great experience working in difference agencies for important clients.
+        A proven track record in providing an excellent events planning service from conception to completion always exceeding expectations.
+      quiz:
+        - Laptop
+        - Brainstorming
+        - Backstage
+        - Speaker
+        - I'm a 4x4
+      languages:
+        - name: Spanish
+          percent: 100%
+        - name: English
+          percent: 75%
+
         Areti is an open minded and energetic freelancer with easy adaptation to last minute situations.
         Very emphatic with clients and a great onsite multitasker.
         She is the one to manage the logistics in big scale events.
