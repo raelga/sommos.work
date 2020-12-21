@@ -33,9 +33,9 @@ team:
       image : profiles/alberto/image.png
       designation : Freelance Event Manager
       description : |
-        I was responsible for production in a big event commemorating the Day of the Dead in Mexico.
-        In a 2,400m2 space, we achieved a spectacular decoration with typical objects brought from the country,
-        more than 7,000 flowers, a ceiling covered with guitars and different thematic areas.
+        Alberto enjoys taking care of every aspect of technical production, from
+        pre-event planning to onsite coordination. He is a detail-oriented PM and
+        the best partner to think ahead and prepare plan A-B-C for extra safety and comfort.
       quiz:
         - Laptop
         - Excel
@@ -50,9 +50,29 @@ team:
         - name : French
           percent : 60%
 
-    - name : Areti Grammatas
-      image_webp : profiles/areti.grammatas/image.webp
-      image : profiles/areti.grammatas/image.png
+    - name : Ana
+      image_webp : profiles/ana/image.webp
+      image : profiles/ana/image.png
+      designation : Freelance Event Manager
+      description : |
+        Our most recent freelancer Ana, is a highly planned, organized and dedicated Event planner
+        with great experience working in difference agencies for important clients.
+        A proven track record in providing an excellent events planning service from conception to completion always exceeding expectations.
+      quiz:
+        - Laptop
+        - Brainstorming
+        - Backstage
+        - Speaker
+        - I'm a 4x4
+      languages:
+        - name: Spanish
+          percent: 100%
+        - name: English
+          percent: 75%
+
+    - name : Areti
+      image_webp : profiles/areti/image.webp
+      image : profiles/areti/image.png
       designation : Freelance Event Manager
       description : |
         Areti is an open minded and energetic freelancer with easy adaptation to last minute situations.
@@ -82,9 +102,9 @@ team:
         - name : Hebrew
           percent : 40%
 
-    - name : Aroha Doña
-      image_webp : profiles/aroha.dona/image.webp
-      image : profiles/aroha.dona/image.png
+    - name : Aroha
+      image_webp : profiles/aroha/image.webp
+      image : profiles/aroha/image.png
       designation : CEO Co-Founder
       description : |
         She is a people lover.
@@ -106,9 +126,9 @@ team:
         - name : Italian
           percent : 50%
 
-    - name : Camille Degenne
-      image_webp : profiles/camille.degenne/image.webp
-      image : profiles/camille.degenne/image.png
+    - name : Camille
+      image_webp : profiles/camille/image.webp
+      image : profiles/camille/image.png
       designation : Freelance Event Manager
       description : |
         She is a great team player, pro active in solution finding, multi-tasker & client oriented person.
@@ -129,9 +149,9 @@ team:
         - name : Italian
           percent : 60%
 
-    - name : Carla Doña
-      image_webp : profiles/carla.dona/image.webp
-      image : profiles/carla.dona/image.png
+    - name : Carla
+      image_webp : profiles/carla/image.webp
+      image : profiles/carla/image.png
       designation : CEO Co-Founder
       description : |
         She is an extremely positive, energetic and self-motivated person.
@@ -152,9 +172,9 @@ team:
         - name : Italian
           percent : 40%
 
-    - name : Coline Basys
-      image_webp : profiles/coline.bassy/image.webp
-      image : profiles/coline.bassy/image.png
+    - name : Coline
+      image_webp : profiles/coline/image.webp
+      image : profiles/coline/image.png
       designation : CEO Co-Founder
       description : |
         Vibrant, enthusiastic and very easygoing freelance.
@@ -177,9 +197,9 @@ team:
         - name : Italian
           percent : 60%
 
-    - name : Inés Arnal
-      image_webp : profiles/ines.arnal/image.webp
-      image : profiles/ines.arnal/image.png
+    - name : Inés
+      image_webp : profiles/ines/image.webp
+      image : profiles/ines/image.png
       designation : Freelance Event Manager
       description : |
         Extremely responsible and detail-oriented freelance with effective customer handling skills.
@@ -199,9 +219,9 @@ team:
         - name: German
           percent: 40%
 
-    - name : Isabelle Bonneau
-      image_webp : profiles/isabelle.bonneau/image.webp
-      image : profiles/isabelle.bonneau/image.png
+    - name : Isabelle
+      image_webp : profiles/isabelle/image.webp
+      image : profiles/isabelle/image.png
       designation : Freelance Event Manager
       description : |
         A multi-tasker person, highly qualified to face large events.
@@ -223,9 +243,9 @@ team:
         - name: German
           percent: 40%
 
-    - name : Isabel Lavandeira
-      image_webp : profiles/isabel.lavandeira/image.webp
-      image : profiles/isabel.lavandeira/image.png
+    - name : Isabel
+      image_webp : profiles/isabel/image.webp
+      image : profiles/isabel/image.png
       designation : Freelance Event Manager
       description : |
         Positive, determined, decisive and passionate about her work.
@@ -249,9 +269,9 @@ team:
         - name : Dutch
           percent : 20%
 
-    - name : Jorge Bermúdez
-      image_webp : profiles/jorge.bermudez/image.webp
-      image : profiles/jorge.bermudez/image.png
+    - name : Jorge
+      image_webp : profiles/jorge/image.webp
+      image : profiles/jorge/image.png
       designation : Freelance Event Manager
       description : |
         Jorge is our English Gentleman, the client oriented freelance par excellence with a technical approach as an added value to his profile.
@@ -272,9 +292,107 @@ team:
         - name : French
           percent : 40%
 
-    - name : Vyara Pelova
-      image_webp : profiles/vyara.pelova/image.webp
-      image : profiles/vyara.pelova/image.png
+    - name : Maria G
+      image_webp : profiles/mariag/image.webp
+      image : profiles/mariag/image.png
+      designation : Freelance Event Manager
+      description : |
+        Creative professional with wide knowledge and expertise in all aspects of Event Production.
+        She is a performance-driven, with experience in pressure environments and tight deadlines.
+        Strong customer service skills, always in positive mood.
+      quiz:
+        - Clicker
+        - Excel
+        - Backstage
+        - Speaker
+        - I'm a 4x4
+      languages:
+        - name: Spanish
+          percent: 100%
+        - name : English
+          percent : 80%
+        - name : French
+          percent : 70%
+        - name : Italian
+          percent : 86%
+        - name : German
+          percent : 50%
+
+    - name : Olatz
+      image_webp : profiles/olatz/image.webp
+      image : profiles/olatz/image.png
+      designation : Freelance Event Manager
+      description : |
+        Olatz is a results driven professional with over nine years in Events, Marketing and Communications experience,
+        across music, gastronomy, media and education. She prides herself in having impeccable interpersonal
+        skills and building long lasting relationship.
+      quiz:
+        - Laptop
+        - Brainstorming
+        - Backstage
+        - Speaker
+        - I'm a 4x4
+      languages:
+        - name: Spanish
+          percent: 100%
+        - name : Euskera
+          percent : 100%
+        - name : English
+          percent : 90%
+
+    - name : Patricia
+      image_webp : profiles/patricia/image.webp
+      image : profiles/patricia/image.png
+      designation : Freelance Event Manager
+      description : |
+        Patricia is our adorable and cheerful Valencian girl. She is very dynamic with enthusiasm and positive attitude.
+        A self-started, goal oriented, hardworking and able to handle stress.She has great interpersonal
+        skills and a impeccable attention to detail in every single event she produces.
+      quiz:
+        - Clicker
+        - Brainstorming
+        - Backstage
+        - Speaker
+        - Early Mornings
+      languages:
+        - name: Spanish
+          percent: 100%
+        - name : Valencian
+          percent : 100%
+        - name : English
+          percent : 70%
+        - name : French
+          percent : 70%
+
+    - name : Vanessa
+      image_webp : profiles/vanessa/image.webp
+      image : profiles/vanessa/image.png
+      designation : Freelance Event Manager
+      description : |
+        Vanessa is a very self motivated person always willing to learn and help others with
+        a huge hunger for new challenges. Very trustful and very talented with massive presentation and public speaking skills.
+        Weddings and corporate events are her fields of expertise.
+      quiz:
+        - Clicker
+        - Brainstorming
+        - Backstage
+        - Artist
+        - I'm a 4x4
+      languages:
+        - name: Spanish
+          percent: 100%
+        - name : Euskera
+          percent : 100%
+        - name : English
+          percent : 80%
+        - name : French
+          percent : 60%
+        - name : German
+          percent : 60%
+
+    - name : Vyara
+      image_webp : profiles/vyara/image.webp
+      image : profiles/vyara/image.png
       designation : Freelance Event Manager
       description : |
         Vyara is very sharp with high communication skills.
