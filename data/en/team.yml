@@ -269,9 +269,9 @@ team:
         - name : Dutch
           percent : 20%
 
-    - name : Jorge Bermúdez
-      image_webp : profiles/jorge.bermudez/image.webp
-      image : profiles/jorge.bermudez/image.png
+    - name : Jorge
+      image_webp : profiles/jorge/image.webp
+      image : profiles/jorge/image.png
       designation : Freelance Event Manager
       description : |
         Jorge is our English Gentleman, the client oriented freelance par excellence with a technical approach as an added value to his profile.
