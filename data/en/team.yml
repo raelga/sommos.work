@@ -292,6 +292,31 @@ team:
         - name : French
           percent : 40%
 
+    - name : Maria G
+      image_webp : profiles/mariag/image.webp
+      image : profiles/mariag/image.png
+      designation : Freelance Event Manager
+      description : |
+        Creative professional with wide knowledge and expertise in all aspects of Event Production.
+        She is a performance-driven, with experience in pressure environments and tight deadlines.
+        Strong customer service skills, always in positive mood.
+      quiz:
+        - Clicker
+        - Excel
+        - Backstage
+        - Speaker
+        - I'm a 4x4
+      languages:
+        - name: Spanish
+          percent: 100%
+        - name : English
+          percent : 80%
+        - name : French
+          percent : 70%
+        - name : Italian
+          percent : 86%
+        - name : German
+          percent : 50%
 
     - name : Olatz
       image_webp : profiles/olatz/image.webp
