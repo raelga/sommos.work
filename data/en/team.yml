@@ -172,9 +172,9 @@ team:
         - name : Italian
           percent : 40%
 
-    - name : Coline Basys
-      image_webp : profiles/coline.bassy/image.webp
-      image : profiles/coline.bassy/image.png
+    - name : Coline
+      image_webp : profiles/coline/image.webp
+      image : profiles/coline/image.png
       designation : CEO Co-Founder
       description : |
         Vibrant, enthusiastic and very easygoing freelance.
