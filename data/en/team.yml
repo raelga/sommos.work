@@ -315,6 +315,29 @@ team:
         - name : English
           percent : 90%
 
+    - name : Patricia
+      image_webp : profiles/patricia/image.webp
+      image : profiles/patricia/image.png
+      designation : Freelance Event Manager
+      description : |
+        Patricia is our adorable and cheerful Valencian girl. She is very dynamic with enthusiasm and positive attitude.
+        A self-started, goal oriented, hardworking and able to handle stress.She has great interpersonal
+        skills and a impeccable attention to detail in every single event she produces.
+      quiz:
+        - Clicker
+        - Brainstorming
+        - Backstage
+        - Speaker
+        - Early Mornings
+      languages:
+        - name: Spanish
+          percent: 100%
+        - name : Valencian
+          percent : 100%
+        - name : English
+          percent : 70%
+        - name : French
+          percent : 70%
 
     - name : Vanessa
       image_webp : profiles/vanessa/image.webp
