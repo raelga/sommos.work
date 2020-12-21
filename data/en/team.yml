@@ -219,9 +219,9 @@ team:
         - name: German
           percent: 40%
 
-    - name : Isabelle Bonneau
-      image_webp : profiles/isabelle.bonneau/image.webp
-      image : profiles/isabelle.bonneau/image.png
+    - name : Isabelle
+      image_webp : profiles/isabelle/image.webp
+      image : profiles/isabelle/image.png
       designation : Freelance Event Manager
       description : |
         A multi-tasker person, highly qualified to face large events.
