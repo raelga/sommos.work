@@ -197,9 +197,9 @@ team:
         - name : Italian
           percent : 60%
 
-    - name : Inés Arnal
-      image_webp : profiles/ines.arnal/image.webp
-      image : profiles/ines.arnal/image.png
+    - name : Inés
+      image_webp : profiles/ines/image.webp
+      image : profiles/ines/image.png
       designation : Freelance Event Manager
       description : |
         Extremely responsible and detail-oriented freelance with effective customer handling skills.
