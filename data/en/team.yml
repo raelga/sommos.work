@@ -315,6 +315,10 @@ team:
         - name : English
           percent : 90%
 
+
+    - name : Vyara
+      image_webp : profiles/vyara/image.webp
+      image : profiles/vyara/image.png
       designation : Freelance Event Manager
       description : |
         Vyara is very sharp with high communication skills.
