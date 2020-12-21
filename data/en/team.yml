@@ -243,9 +243,9 @@ team:
         - name: German
           percent: 40%
 
-    - name : Isabel Lavandeira
-      image_webp : profiles/isabel.lavandeira/image.webp
-      image : profiles/isabel.lavandeira/image.png
+    - name : Isabel
+      image_webp : profiles/isabel/image.webp
+      image : profiles/isabel/image.png
       designation : Freelance Event Manager
       description : |
         Positive, determined, decisive and passionate about her work.
