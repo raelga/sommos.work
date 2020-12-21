@@ -126,9 +126,9 @@ team:
         - name : Italian
           percent : 50%
 
-    - name : Camille Degenne
-      image_webp : profiles/camille.degenne/image.webp
-      image : profiles/camille.degenne/image.png
+    - name : Camille
+      image_webp : profiles/camille/image.webp
+      image : profiles/camille/image.png
       designation : Freelance Event Manager
       description : |
         She is a great team player, pro active in solution finding, multi-tasker & client oriented person.
