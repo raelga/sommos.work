@@ -292,9 +292,29 @@ team:
         - name : French
           percent : 40%
 
-    - name : Vyara Pelova
-      image_webp : profiles/vyara.pelova/image.webp
-      image : profiles/vyara.pelova/image.png
+
+    - name : Olatz
+      image_webp : profiles/olatz/image.webp
+      image : profiles/olatz/image.png
+      designation : Freelance Event Manager
+      description : |
+        Olatz is a results driven professional with over nine years in Events, Marketing and Communications experience,
+        across music, gastronomy, media and education. She prides herself in having impeccable interpersonal
+        skills and building long lasting relationship.
+      quiz:
+        - Laptop
+        - Brainstorming
+        - Backstage
+        - Speaker
+        - I'm a 4x4
+      languages:
+        - name: Spanish
+          percent: 100%
+        - name : Euskera
+          percent : 100%
+        - name : English
+          percent : 90%
+
       designation : Freelance Event Manager
       description : |
         Vyara is very sharp with high communication skills.
