@@ -102,9 +102,9 @@ team:
         - name : Hebrew
           percent : 40%
 
-    - name : Aroha Doña
-      image_webp : profiles/aroha.dona/image.webp
-      image : profiles/aroha.dona/image.png
+    - name : Aroha
+      image_webp : profiles/aroha/image.webp
+      image : profiles/aroha/image.png
       designation : CEO Co-Founder
       description : |
         She is a people lover.
